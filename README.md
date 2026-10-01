@@ -58,9 +58,9 @@ An → characterName = "An" →
 
 |---|---|---|
 
-| An | Welcome, An! The Civic Archive Dome awaits you. Passed 
+| An | Welcome, An! The Civic Archive Dome awaits you. Passed
 
-| Alex | Welcome, Alex! The Civic Archive Dome awaits you. Passes
+| Alex | Welcome, Alex! The Civic Archive Dome awaits you. Passed
 
 | Empty input | Please enter your character's name. Passed
 
@@ -80,11 +80,9 @@ from the beginning and end of the name.
 
 
 
-After testing: \[Describe what you changed, or explain
+After testing :After testing, all three tests produced the expected results,
 
-that no further changes were needed.]
-
-
+so no further changes were needed.
 
 \### Classmate Test
 
@@ -94,7 +92,7 @@ I tested the app with 2 classmates and empty input. All 3 tests produced the exp
 
 \### Evidence
 
-The evidence/6B folder contains my whiteboard photo,
+The ActionRecord6B/screenshots evidence folder contains my whiteboard photo,
 
 test screenshots, and Discord post evidence.
 
