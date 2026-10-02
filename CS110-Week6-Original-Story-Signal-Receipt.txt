@@ -1,0 +1,45 @@
+CS110 · WEEK 6 · FIRST C# APP
+HANDOFF RECEIPT
+
+Receipt ID: e22132a6-6a8f-49d6-b7fd-4adbedfc792c
+Selected: Use your own story
+App subject: Original Story Signal
+Selected at: 2026-09-29T21:31:41.696Z
+Requirements version: 2026-09-29.3
+
+ACTION 6A · Tuesday, September 29, 2026
+Required video tutorial, Visual Studio setup, web-to-desktop whiteboard, tutorial output, completed C# Code Map, GitHub checkpoint, Discord evidence.
+
+ACTION 6B · Thursday, October 1, 2026
+Input-variable-output whiteboard, contextual extension, tests, README, GitHub revision, Discord handoff.
+
+WEEK 6 · Monday, October 5, 2026
+Verify the repository, download this receipt, and submit both in Canvas.
+
+R1 · Required tutorial project
+Context: Original Story Signal
+Open the ‘Required tutorial and Git help’ section below. Follow the main Week 6 video, ‘Ready to Code Some C# NET’ (https://www.youtube.com/watch?v=09gGCHqBZzY), in Visual Studio and run its Console App before adding pathway content. Use the Microsoft written tutorial as reading support.
+
+R2 · C# Code Map worksheet
+Context: Original Story Signal
+Complete the colorful C# Code Map worksheet (code-map-worksheet.html). Label the class, Main method, method or function, variable, input, output, Console.WriteLine, and Console.ReadLine; trace what the tutorial program receives, remembers, and displays; then save a PDF or clear screenshot in the Week6 evidence folder.
+
+R3 · Add your selected context
+Context: Original Story Signal
+After the required tutorial project works, replace or extend its Hello World output to make an Original Story Signal. Ask for a character or operator name, store it in a string variable, and print one response that belongs in your world. Explain the user and purpose in README.md.
+
+R4 · Class evidence
+Context: Original Story Signal
+Include both whiteboard photos, the tutorial output screenshot, the completed C# Code Map, two extension tests, and the 6A/6B Discord evidence.
+
+R5 · GitHub development trail
+Context: Original Story Signal
+The accessible repository shows meaningful 6A and 6B commits, the tested current source, and a README explanation.
+
+R6 · Canvas return
+Context: Original Story Signal
+Download the handoff receipt and submit it with the tested GitHub repository URL in the Week 6 Canvas assignment.
+
+Canvas: https://sbccd.instructure.com/courses/66804/assignments/1900580
+
+This receipt records a selected context and task list. It does not certify attendance, completion, submission, or a grade.
